@@ -36,7 +36,7 @@ npx cypress open
 
 npx cypress run
 
-##Base URL
+## Base URL
 
 - Make sure your TodoMVC React app is running locally.
 
