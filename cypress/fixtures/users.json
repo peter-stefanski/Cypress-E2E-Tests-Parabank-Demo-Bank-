@@ -1,0 +1,31 @@
+{
+  "newUser": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "username": "JohnDoe123",
+    "password": "demo123",
+    "address": "123 Main St",
+    "city": "London",
+    "state": "UK",
+    "zip": "12345",
+    "phone": "555123456",
+    "ssn": "111-22-3333"
+  },
+  "validUser": {
+    "username": "PeterPeter123",
+    "password": "demo123"
+  },
+
+  "newUser2": {
+    "firstName": "API",
+    "lastName": "User",
+    "address": "123 Main St",
+    "city": "Berlin",
+    "state": "BE",
+    "zip": "10115",
+    "phone": "555-1234",
+    "ssn": "111-22-3333",
+    "username": "user123",
+    "password": "demo123"
+  }
+}
